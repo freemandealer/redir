@@ -1,0 +1,3 @@
+Redir is command line interface remote control utilty. It takes advantages of BAE service to redirect control and responding flow, so that it can reach hosts located in the internal network.
+
+Author:	Freeman Zhang <freeman.zhang1992@gmail.com>
